@@ -19,11 +19,11 @@ This application was specifically developed to showcase and enhance skills in pr
 
 ## Live URL
 
-Live Application on Render: jhona-challenge-19-text-editor.onrender.com
+Live Application on Render: https://jhona-challenge-19-text-editor.onrender.com
 
 ## Installation
 
-Users can view and utilize the application through the use of the browser by visiting the deployed application at .
+Users can view and utilize the application through the use of the browser by visiting the deployed application at https://jhona-challenge-19-text-editor.onrender.com.
 
 Viewing the application in the browser will also give users the ability to download the application allowing it to be used offline.
 
